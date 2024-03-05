@@ -1,0 +1,142 @@
+WEBVTT
+
+00:05.100 --> 00:09.280
+Hello everyone and welcome to the capstone project one section of the course.
+
+00:09.660 --> 00:14.580
+We've learned a lot about T.M. and CSSA two major components of any Web site.
+
+00:14.670 --> 00:19.560
+And I want to congratulate you for making it this far into the course before we move on to bootstrap
+
+00:19.560 --> 00:23.150
+which is actually going to simplify a lot of our work with CSSA.
+
+00:23.280 --> 00:28.500
+Let's take a moment to practice everything we've learned so far with a quick capstone project.
+
+00:28.800 --> 00:33.930
+You're going to be creating a mock landing page for a startup in the landing page will have a form and
+
+00:33.930 --> 00:35.450
+lead to a thank you page.
+
+00:35.460 --> 00:41.550
+It's a pretty simple page but it will help you practice what we learned about HTL and CSA so far.
+
+00:41.550 --> 00:46.140
+However I want you to know that this project is optional and there are really three ways you can approach
+
+00:46.140 --> 00:46.470
+it.
+
+00:47.440 --> 00:50.880
+The first way is if you already feel confident in each team Ellen CSSA.
+
+00:50.890 --> 00:55.420
+Maybe you've already studied them or you just wanted a quick refresher So you saw a few lectures in
+
+00:55.420 --> 00:58.840
+the last few sections or maybe you already knew them completely.
+
+00:58.850 --> 01:03.220
+You can feel free to just skip this project and move on straight to bootstrap or whatever sections you
+
+01:03.220 --> 01:06.870
+want to continue to or as a second option.
+
+01:06.880 --> 01:12.010
+You can just follow along with the solution videos instead of trying the project on your own first and
+
+01:12.010 --> 01:17.410
+then the third way to go about this project is to try to recreate the landing page before watching any
+
+01:17.470 --> 01:19.560
+of the walkthrough solutions videos.
+
+01:19.750 --> 01:25.540
+So again feel free to skip it just for a solution videos or recreate it and then watch the solution
+
+01:25.540 --> 01:25.990
+videos.
+
+01:25.990 --> 01:28.330
+It's totally up to you OK.
+
+01:28.340 --> 01:30.110
+Let's take a quick look at the landing page.
+
+01:30.140 --> 01:34.190
+See the requirements and then you can get started and decide what you want to do.
+
+01:34.190 --> 01:36.580
+All right so here I am at the landing page.
+
+01:36.740 --> 01:40.410
+This is the welcome to the landing page where a startup that does something.
+
+01:40.520 --> 01:45.890
+We have two paragraphs of lordship some and then it says sign up for our upcoming launch and at the
+
+01:45.890 --> 01:50.570
+bottom we see a form that asks for your first name the last name and email and then it has a signed
+
+01:50.570 --> 01:51.500
+me up button.
+
+01:52.340 --> 01:56.030
+So what I want to do is to recreate this landing page.
+
+01:56.060 --> 02:01.730
+It has a heading 1 heading to two paragraphs and then at the bottom.
+
+02:01.730 --> 02:06.860
+We have this form that asks for your first name last name email so make sure you use the proper form
+
+02:06.860 --> 02:12.020
+tags for going to be building this and we have a kind of a giant submit button that says Sign me up.
+
+02:12.140 --> 02:16.200
+And note that it also has rounded corners so see if you can figure out how to do that.
+
+02:16.240 --> 02:20.780
+Also note that it's colored The last thing I want to point out is using some C Ss.
+
+02:20.810 --> 02:28.010
+We've been able to add a bit of a border to this on the left right hand side of the text content and
+
+02:28.010 --> 02:30.050
+also on the bottom but not at the top.
+
+02:30.050 --> 02:32.260
+See if he can figure out how to do that as well.
+
+02:32.370 --> 02:40.530
+And then lastly if you actually fill out the information and then put some random email address there.
+
+02:40.700 --> 02:44.950
+Upon hitting sign me up it should take you to some sort of think Page.
+
+02:44.950 --> 02:49.640
+So thanks for signing up I'll reach out to you soon and we see that kind of border around the text.
+
+02:49.670 --> 02:53.390
+All right see if he can recreate this really simple landing page.
+
+02:53.390 --> 02:59.120
+So again it's just this landing page and then upon clicking the sign up button it should take some sort
+
+02:59.120 --> 03:02.480
+of think you've got a system file that you have separately there.
+
+03:02.510 --> 03:05.190
+Do you have any questions feel free to post in the Q&amp;A forums.
+
+03:05.300 --> 03:10.850
+But again feel free to either skip this follow along with just the solution videos or try it out on
+
+03:10.850 --> 03:13.610
+your own first and then watch the solutions video.
+
+03:13.610 --> 03:15.780
+Thanks everyone and I'll see you at the next lecture.

@@ -1,0 +1,400 @@
+WEBVTT
+
+00:05.050 --> 00:10.660
+Hello everyone and welcome back to the some project one solutions lecture this lecture will just begin
+
+00:10.660 --> 00:15.660
+cutting out an example a solution for the cap some project let's hop through an editor and get started.
+
+00:16.000 --> 00:20.380
+OK so here you have the text editor open as well as the example of what we eventually want the landing
+
+00:20.380 --> 00:21.460
+page to look like.
+
+00:21.550 --> 00:23.650
+Say Welcome to the longeing landing page.
+
+00:23.650 --> 00:24.390
+Scroll down.
+
+00:24.390 --> 00:27.190
+When we hit sign me up it takes us to a think Page.
+
+00:27.190 --> 00:33.250
+So let's focus on that right now and I'm going to need basically three files one each time I'll file
+
+00:33.250 --> 00:39.100
+for this main page one each time I'll file for the thank you page and the CSSA file for the CSSA the
+
+00:39.100 --> 00:39.760
+project.
+
+00:39.760 --> 00:45.830
+Let's start out by creating the H-2A mail for the main project page this landing page.
+
+00:45.880 --> 00:51.520
+So I have a aist him l file called Project H Tim L is actually currently linked here so I'm going to
+
+00:51.520 --> 00:52.120
+refresh.
+
+00:52.120 --> 00:56.110
+It's cleared now and we should have a blank slate to begin with.
+
+00:56.110 --> 01:00.950
+So let's refresh will expand this just a little bit and decrease this browsers.
+
+01:00.950 --> 01:02.320
+It matches up.
+
+01:02.320 --> 01:03.460
+Now let's get started.
+
+01:03.460 --> 01:10.130
+So we're going to do first is actually type in HVM L and do the autocomplete there and then let's get
+
+01:10.130 --> 01:12.010
+the something like trajectory.
+
+01:12.020 --> 01:18.500
+Call it landing page and then we also want to make sure that this is eventually linked to that project
+
+01:18.500 --> 01:23.540
+that CSSA file or whatever you happen to call the CSSA file for this project.
+
+01:23.540 --> 01:31.790
+So there's our style sheet and then we want to do is have the heading one that says something like welcome
+
+01:31.790 --> 01:36.940
+to the landing page.
+
+01:37.100 --> 01:46.640
+And since we're a startup we'll have to say we're a startup that is cool or something whatever you want
+
+01:46.640 --> 01:48.510
+to say is totally fine.
+
+01:48.650 --> 01:51.200
+And then we want some filler text all add in the paragraph.
+
+01:51.200 --> 01:58.510
+There were Florham ipsum will put in another paragraph again with Florham up some.
+
+01:58.600 --> 02:03.060
+And then what we want to do is add in the form.
+
+02:03.170 --> 02:14.730
+So the form is also going to come here and will do is say H to say something like sign up for our lunch
+
+02:20.500 --> 02:21.330
+call the form.
+
+02:21.330 --> 02:29.360
+Ted and right now we'll just give it no class or actually we'll call.
+
+02:29.430 --> 02:34.060
+Call it the class email form in case you want to access it.
+
+02:34.350 --> 02:40.230
+But remember we want to link to the page upon and the action call upon hitting that submit.
+
+02:40.230 --> 02:45.120
+So I want to make sure that my action goes to think about the smell and then that means this method
+
+02:45.120 --> 02:46.390
+needs to be get.
+
+02:46.690 --> 02:50.810
+And we have discussed really post versus Get yet we will in a future lecture.
+
+02:50.800 --> 02:57.240
+But right now you should just know that from our previous discussions in the T.M. forms lectures.
+
+02:57.550 --> 02:58.200
+OK.
+
+02:58.230 --> 03:00.210
+So we had three inputs we wanted.
+
+03:00.210 --> 03:03.170
+We had the first name the last name and the e-mail.
+
+03:03.210 --> 03:04.610
+So let's put these in.
+
+03:04.650 --> 03:06.390
+We want the input.
+
+03:06.480 --> 03:09.040
+This type is going to be just a text input.
+
+03:10.440 --> 03:16.450
+And we'll give the name of this to be first so I can reference it later.
+
+03:17.370 --> 03:20.350
+We have another input that's also text.
+
+03:20.560 --> 03:22.700
+We'll give it the name last.
+
+03:22.770 --> 03:27.310
+We have another input and that's going to be an email input.
+
+03:27.460 --> 03:34.310
+Now we'll just give it the name email and it would be also smart to pass in values right now.
+
+03:34.320 --> 03:38.000
+But we're really not doing anything since this is just a shell landing page.
+
+03:38.040 --> 03:42.600
+We're not actually accepting these values so we won't put anything for input right now.
+
+03:42.660 --> 03:50.510
+But we do want to do is add in some labels so we'll say this label is for first so that it matches the
+
+03:50.510 --> 03:51.680
+name.
+
+03:51.900 --> 03:59.440
+And then let's say first name for this label the second input you also have a label that's going to
+
+03:59.440 --> 04:08.850
+belong to last call a last name and then finally we want to label here and this is going to be the label
+
+04:08.850 --> 04:16.260
+for email memberships matching the name here and then we'll say email so let's save this refresh and
+
+04:16.260 --> 04:16.860
+see what we have.
+
+04:16.860 --> 04:18.900
+So far it's looking pretty good.
+
+04:18.900 --> 04:19.650
+I'm zoon then.
+
+04:19.650 --> 04:24.900
+So the fots a little weird but we can see here that I have.
+
+04:24.900 --> 04:26.090
+Welcome to Lenny page.
+
+04:26.090 --> 04:32.170
+We're a startup that's cool let's change that save in a refresh.
+
+04:32.240 --> 04:35.910
+We're started this cool we have to purchase a lot of maps some sign up for launch.
+
+04:35.990 --> 04:41.720
+First Name Last Name and Email something that you may notice however is that the first name last name
+
+04:41.720 --> 04:44.490
+and email inputs are all on the same line.
+
+04:44.780 --> 04:47.110
+There's a couple of ways we can take care of that.
+
+04:47.120 --> 04:52.730
+One way we showed earlier was to put in a blank paragraph and between these to try to get those line
+
+04:52.730 --> 04:59.240
+breaks so if I click save here I can see that in putting that same paragraph or empty paragraph gets
+
+04:59.240 --> 05:05.460
+me what I was looking for the other way to do this which is a little better is by using a break tag
+
+05:05.460 --> 05:11.200
+and a break tag basically just says hey break to a new block and that can be used with this command
+
+05:11.210 --> 05:21.030
+you just put an open symbol B are and that's your break tag and you can actually just type in your and
+
+05:21.300 --> 05:23.030
+it will automatically fill that in for you.
+
+05:23.820 --> 05:29.290
+And then we can put in one more here so we can save that refresh and we can see if we have that line
+
+05:29.290 --> 05:29.870
+break.
+
+05:30.010 --> 05:34.250
+But then the issue of this break is that they are very close together.
+
+05:34.330 --> 05:37.610
+So we end up having to do is add in the break to the labels as well.
+
+05:38.460 --> 05:40.540
+So we can add in those breaks.
+
+05:40.860 --> 05:46.230
+So it might have been a little easier just to do those two paragraph calls but it looks a little more
+
+05:46.230 --> 05:50.240
+professional and nicer to use the actual breaks since the paragraphs are being used.
+
+05:50.250 --> 05:53.180
+You could probably use breaks even though there are more of them.
+
+05:53.190 --> 05:57.630
+It looks a little more professional nicer because they're the actual use case of the break is being
+
+05:57.630 --> 06:00.300
+used here versus the paragraphs themselves.
+
+06:00.300 --> 06:00.750
+All right.
+
+06:00.930 --> 06:04.580
+So looks like everything's done for each team out on the project page.
+
+06:04.680 --> 06:06.010
+Let's open up the.
+
+06:06.020 --> 06:07.020
+Thank you.
+
+06:07.020 --> 06:09.140
+Actually we still need to do the submit button.
+
+06:09.150 --> 06:12.470
+So let's type that in real quick.
+
+06:12.780 --> 06:17.030
+Well say input submit and the value for this guy is going to be.
+
+06:17.220 --> 06:18.260
+Sign me up
+
+06:21.380 --> 06:26.750
+and let's give it an ID so he can edit it later because remember we're going to try to make these corners
+
+06:26.750 --> 06:28.130
+rounded on this.
+
+06:28.130 --> 06:32.090
+So we'll give it the ID some refresh.
+
+06:32.090 --> 06:34.040
+We see Sign me up.
+
+06:34.040 --> 06:35.160
+Great.
+
+06:35.240 --> 06:37.240
+So let's continue.
+
+06:37.360 --> 06:39.240
+We're going to open up the.
+
+06:39.250 --> 06:42.260
+Thank you Tim L..
+
+06:42.460 --> 06:43.670
+Here it is blank right now.
+
+06:43.690 --> 06:49.140
+Let's start by just typing in HCM l saving this.
+
+06:49.390 --> 06:56.230
+We want to make sure that we are linking to the eventual CSSA file which is going to be project about
+
+06:56.230 --> 07:06.540
+C Ss or whatever you happen to have called it save that that I'm going to add in Heading 1 say something
+
+07:06.540 --> 07:17.420
+like thank you for signing up and then we'll also add in a heading to that's something like we'll reach
+
+07:17.420 --> 07:19.900
+out to you soon.
+
+07:19.970 --> 07:21.300
+Exclamation point.
+
+07:21.770 --> 07:22.340
+OK.
+
+07:22.520 --> 07:29.140
+So so far what we've done is we said we have our team I'll set up our project team all set up.
+
+07:29.210 --> 07:37.190
+So if those have saved if I refresh this and add in some context these guys so at gmail dot com and
+
+07:37.190 --> 07:41.610
+click sign me up boom now I get the thank you for signing up.
+
+07:41.610 --> 07:44.280
+Last thing I want to do is change the font right now.
+
+07:44.340 --> 07:46.780
+We're still on the default Times New Roman.
+
+07:46.830 --> 07:54.010
+Let me just make this a little nicer by choosing a Google font so I will open up and you have to Fahnestock
+
+07:54.010 --> 07:55.370
+Googlebot com.
+
+07:55.410 --> 08:01.340
+Roberto is a really nice font that I like a lot but let's use something a little more fun.
+
+08:01.350 --> 08:03.710
+So senese the that looks pretty cool.
+
+08:03.990 --> 08:08.760
+So I'm going to add that says one family selected.
+
+08:08.960 --> 08:13.570
+I'm going to copy and paste this link and I'm going to make sure that it's in both.
+
+08:13.580 --> 08:14.330
+Thank you.
+
+08:16.560 --> 08:19.520
+And project files.
+
+08:19.760 --> 08:26.440
+And then I'm going to copy and paste the thing I need to specify for CSX which means I should open up
+
+08:26.440 --> 08:27.690
+my CSSA file.
+
+08:29.060 --> 08:31.520
+And then put in something like body
+
+08:34.320 --> 08:41.630
+and then just copy and paste that font family save that save this save that and refreshed to make sure
+
+08:41.700 --> 08:45.140
+the font has changed and there it is Wakata landing page.
+
+08:45.260 --> 08:46.780
+Things looking at here.
+
+08:47.130 --> 08:47.760
+All right.
+
+08:47.760 --> 08:54.630
+So next thing you have to do is just edit the CSSA to match what we had earlier.
+
+08:54.630 --> 08:59.610
+We're going to continue editing the see SS in the very next lecture so you can take some time just to
+
+08:59.610 --> 09:02.050
+go over everything we did in the aged hymnal.
+
+09:02.130 --> 09:06.630
+I know we went through it a little bit quickly in this lecture so feel free to take your time with the
+
+09:06.630 --> 09:12.570
+actual HTL notes that are available to you under the capstone project one folder or just watch this
+
+09:12.570 --> 09:16.740
+lecture at a slower pace or at a faster pace if I'm still too slow for you.
+
+09:16.980 --> 09:19.040
+Thanks everyone and I'll see you at the next lecture.
+
+09:19.050 --> 09:22.220
+We'll finish off this project by editing the rest of the CSSA file.

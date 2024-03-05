@@ -1,0 +1,42 @@
+body {
+	background: #add8e6;
+}
+h1 {
+	border: 1px solid black;
+}
+
+h2 {
+	color: purple;
+}
+
+input[type="email"] {
+	border: 2px solid rgb(139, 0, 0);
+}
+
+input[type="password"] {
+	border: 2px solid rgb(139, 0, 0);
+}
+
+div p {
+	background: yellow;
+}
+#textblock {
+	border: 5px solid gray;
+	width: 800px;
+	height: 400px;
+}
+
+ul li a {
+	color: red;
+}
+ul li a:hover {
+	color: black;
+}
+#itemone {
+	text-decoration: overline;
+	color: purple;
+}
+.exit {
+	background-color: blue;
+	border: 4px dashed yellow;
+}

@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Forms Assessment</title>
+	</head>
+	<body>
+		<form action="welcome.html">
+			<h1>Course Sign In Page</h1>
+			<p>Please Note: First Name, Last Name, Password and Email are required</p>
+			<p>
+				<label>
+					First Name :
+					<input
+						type="text"
+						name="firstname"
+						id="username"
+						placeholder="First Name"
+					/>
+				</label>
+
+				<label>
+					Last Name :
+					<input
+						type="text"
+						name="lastname"
+						id="userlastname"
+						placeholder="Last Name"
+					/>
+				</label>
+			</p>
+			<p>
+				<label>
+					Email :
+					<input
+						type="text"
+						name="password"
+						id="userpassword"
+						placeholder="name@email.com"
+					/>
+				</label>
+
+				<label>
+					Password :
+					<input
+						type="password"
+						name="password"
+						id="userpassword"
+						placeholder="Password"
+					/>
+				</label>
+			</p>
+			<p>Are you over the age of 18 ?</p>
+			<label for="yes">Yes:</label>
+			<input type="radio" name="age" id="yes" value="yes" />
+			<label for="no">No:</label>
+			<input type="radio" name="age" id="no" value="no" />
+
+			<p>Do you have a Credit Card or Paypal?</p>
+			<p>
+				<select name="paymentChoice" id="">
+					<option value="creditcard">Credit Card</option>
+					<option value="paypal">Paypal</option>
+				</select>
+			</p>
+
+			<input type="submit" value="Submit" />
+		</form>
+	</body>
+</html>
